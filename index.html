@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" sizes="196x196" href="bunny.png">
+	<title>Little Wizard</title>
+    <!--link to the phaser library    -->
+    <script src="libs/phaser.js"></script>
+    <!--Link to the various "modules"-->
+    <script src="Boot.js"></script>
+    <script src="Preloader.js"></script>
+    <script src="StartMenu.js"></script>
+    <script src="Game.js"></script>
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+			background-color: #000000;
+		}
+	</style>
+</head>
+<body>
+    <div id="gameContainer"></div>
+    <script type="text/javascript">
+        window.onload = function() {
+            /*Creating the game ( Width, Height, how we render it (AUTO means Phaser decides), reference to div*/
+            var game = new Phaser.Game(540, 960, Phaser.AUTO, 'gameContainer');
+            game.state.add('Boot', LittleWizard.Boot);
+            game.state.add('Preloader', LittleWizard.Preloader);
+            game.state.add('StartMenu', LittleWizard.StartMenu);
+            game.state.add('Game', LittleWizard.Game);
+            game.state.start('Boot');
+        }
+    </script>
+</body>
+</html>

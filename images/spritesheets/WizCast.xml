@@ -1,0 +1,33 @@
+<TextureAtlas imagePath="WizCast.png">
+	<SubTexture name="WizardNew_00.png" x="0" y="198" width="64" height="64"/>
+	<SubTexture name="WizardNew_01.png" x="132" y="330" width="64" height="64"/>
+	<SubTexture name="WizardNew_02.png" x="132" y="396" width="64" height="64"/>
+	<SubTexture name="WizardNew_03.png" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_04.png" x="66" y="264" width="64" height="64"/>
+	<SubTexture name="WizardNew_05.png" x="0" y="132" width="64" height="64"/>
+	<SubTexture name="WizardNew_06.png" x="0" y="66" width="64" height="64"/>
+	<SubTexture name="WizardNew_07.png" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_08.png" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_09.png" x="66" y="264" width="64" height="64"/>
+	<SubTexture name="WizardNew_10.png" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_11.png" x="132" y="396" width="64" height="64"/>
+	<SubTexture name="WizardNew_12.png" x="132" y="330" width="64" height="64"/>
+	<SubTexture name="WizardNew_13.png" x="132" y="396" width="64" height="64"/>
+	<SubTexture name="WizardNew_14.png" x="132" y="264" width="64" height="64"/>
+	<SubTexture name="WizardNew_15.png" x="132" y="198" width="64" height="64"/>
+	<SubTexture name="WizardNew_16.png" x="132" y="132" width="64" height="64"/>
+	<SubTexture name="WizardNew_17.png" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="WizardNew_18.png" x="132" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_19.png" x="66" y="396" width="64" height="64"/>
+	<SubTexture name="WizardNew_20.png" x="66" y="330" width="64" height="64"/>
+	<SubTexture name="WizardNew_21.png" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="WizardNew_22.png" x="66" y="198" width="64" height="64"/>
+	<SubTexture name="WizardNew_23.png" x="66" y="132" width="64" height="64"/>
+	<SubTexture name="WizardNew_24.png" x="66" y="66" width="64" height="64"/>
+	<SubTexture name="WizardNew_25.png" x="66" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_26.png" x="0" y="396" width="64" height="64"/>
+	<SubTexture name="WizardNew_27.png" x="0" y="330" width="64" height="64"/>
+	<SubTexture name="WizardNew_28.png" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="WizardNew_29.png" x="0" y="264" width="64" height="64"/>
+	<SubTexture name="WizardNew_30.png" x="132" y="330" width="64" height="64"/>
+</TextureAtlas>

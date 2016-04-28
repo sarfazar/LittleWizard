@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="Meteors.png">
+	<SubTexture name="slice01" x="80" y="287" width="38" height="89"/>
+	<SubTexture name="slice02" x="80" y="190" width="38" height="95"/>
+	<SubTexture name="slice03" x="80" y="378" width="36" height="97"/>
+	<SubTexture name="slice04" x="80" y="0" width="38" height="99"/>
+	<SubTexture name="slice05" x="40" y="382" width="38" height="93"/>
+	<SubTexture name="slice06" x="40" y="291" width="38" height="89"/>
+	<SubTexture name="slice07" x="80" y="101" width="38" height="87"/>
+	<SubTexture name="slice08" x="40" y="87" width="38" height="91"/>
+	<SubTexture name="slice09" x="0" y="378" width="38" height="97"/>
+	<SubTexture name="slice10" x="40" y="180" width="38" height="109"/>
+	<SubTexture name="slice11" x="0" y="178" width="38" height="101"/>
+	<SubTexture name="slice12" x="0" y="281" width="38" height="95"/>
+	<SubTexture name="slice13" x="0" y="87" width="38" height="89"/>
+	<SubTexture name="slice14" x="0" y="0" width="39" height="85"/>
+</TextureAtlas>

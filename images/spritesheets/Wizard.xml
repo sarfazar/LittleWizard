@@ -1,0 +1,29 @@
+<TextureAtlas imagePath="Wizard.png">
+	<SubTexture name="wizard_00.png" x="264" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_01.png" x="264" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_02.png" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_03.png" x="330" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_04.png" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_05.png" x="396" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_06.png" x="132" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_07.png" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_08.png" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_09.png" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_10.png" x="330" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_11.png" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_12.png" x="264" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_13.png" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_14.png" x="132" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_15.png" x="66" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_16.png" x="66" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_17.png" x="66" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_18.png" x="0" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_19.png" x="0" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_20.png" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_21.png" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_22.png" x="330" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_23.png" x="330" y="66" width="64" height="64"/>
+	<SubTexture name="wizard_24.png" x="330" y="0" width="64" height="64"/>
+	<SubTexture name="wizard_25.png" x="264" y="132" width="64" height="64"/>
+	<SubTexture name="wizard_26.png" x="264" y="66" width="64" height="64"/>
+</TextureAtlas>

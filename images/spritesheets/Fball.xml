@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="Fball.png">
+	<SubTexture name="Explode_0.png" x="48" y="32" width="14" height="14"/>
+	<SubTexture name="Explode_1.png" x="16" y="32" width="14" height="14"/>
+	<SubTexture name="Explode_2.png" x="16" y="16" width="14" height="14"/>
+	<SubTexture name="Explode_3.png" x="16" y="0" width="14" height="14"/>
+	<SubTexture name="Explode_4.png" x="0" y="48" width="14" height="14"/>
+	<SubTexture name="Explode_5.png" x="0" y="32" width="14" height="14"/>
+	<SubTexture name="Explode_6.png" x="0" y="16" width="14" height="14"/>
+	<SubTexture name="fireball_1.png" x="0" y="0" width="14" height="14"/>
+	<SubTexture name="fireball_2.png" x="16" y="48" width="14" height="14"/>
+	<SubTexture name="fireball_3.png" x="48" y="16" width="14" height="14"/>
+	<SubTexture name="fireball_4.png" x="48" y="0" width="14" height="14"/>
+	<SubTexture name="fireball_5.png" x="32" y="48" width="14" height="14"/>
+	<SubTexture name="fireball_6.png" x="32" y="32" width="14" height="14"/>
+	<SubTexture name="fireball_7.png" x="32" y="16" width="14" height="14"/>
+	<SubTexture name="fireball_8.png" x="32" y="0" width="14" height="14"/>
+</TextureAtlas>
